@@ -10,5 +10,9 @@
     "egghead.io",
     "chrome extension",
     "video playback rate"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danutzcodrescu/video-delay-fast-playback-chrome-extension"
+  }
 }

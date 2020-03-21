@@ -22,3 +22,4 @@ I discovered that when the video initially loads and the playback rate is 1x or 
 
 - [ ] add ui to define initial playback speed and desired playback speed
 - [ ] add ui to define other websites other than egghead.io
+- [ ] pack it and release it to chrome store
