@@ -1,0 +1,14 @@
+{
+  "name": "video-delay-variable-speed",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Chrome extension that automatically changes the plaback rate to 2x after a slight delay in order to let the video buffer.",
+  "author": {
+    "name": "Danut Codrescu"
+  },
+  "keywords": [
+    "egghead.io",
+    "chrome extension",
+    "video playback rate"
+  ]
+}
